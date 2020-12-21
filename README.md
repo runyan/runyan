@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-[![](https://github.com/monkeyWie/monkeyWie/raw/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/monkeyWie)  
-[![](https://github-readme-stats.vercel.app/api?username=monkeyWie&show_icons=true&theme=radical&hide_title=1&include_all_commits=true)](https://github.com/monkeyWie)
-[![](https://github.com/monkeyWie/monkeyWie/raw/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/monkeyWie)
-
 [![Run Yan's github stats](https://github-readme-stats.vercel.app/api?username=runyan)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=runyan&layout=compact)](https://github.com/runyan)
 
 <!--
 **runyan/runyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
