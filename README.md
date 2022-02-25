@@ -6,9 +6,11 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-intellij_idea-informational?style=flat&logo=intellij-idea&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-mysql-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 - :orange_book: Focusing on Java
 - :hammer: developer at xdf.cn
 - :meat_on_bone: Meat lover
+- :ram: reach me at: yanrun2007@hotmail.com
 
 [![Run Yan's github stats](https://github-readme-stats.vercel.app/api?username=runyan)](https://github.com/anuraghazra/github-readme-stats)
 
