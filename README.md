@@ -5,10 +5,12 @@
 
 
 ## 👨‍💻 Basics
-- :orange_book: Focusing on Java
-- :hammer: Developer at xdf.cn
-- :meat_on_bone: Meat lover
-- 💬 Reach me at: yanrun2007@hotmail.com
+- 🎓: Stevens Institute of Technology
+- 📙: Focusing on Java
+- 🔨: Developer at xdf.cn
+- 📚: Studying golang
+- 🍖: Meat lover
+- 💬: Reach me at: yanrun2007@hotmail.com
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
