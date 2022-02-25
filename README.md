@@ -3,16 +3,19 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=runyan.runyan)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
+
+## 👨‍💻 Basics
+- :orange_book: Focusing on Java
+- :hammer: Developer at xdf.cn
+- :meat_on_bone: Meat lover
+- 💬 Reach me at: yanrun2007@hotmail.com
+
+## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-intellij_idea-informational?style=flat&logo=intellij-idea&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-mysql-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 
-## 👨‍💻 Basics
-- :orange_book: Focusing on Java
-- :hammer: developer at xdf.cn
-- :meat_on_bone: Meat lover
-- 💬 reach me at: yanrun2007@hotmail.com
 
 ## 🗂 Github Stats
 
