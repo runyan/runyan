@@ -1,11 +1,11 @@
 ### Hi there 👋
 
+- :orange_book: Focusing on Java
+- :hammer: Spring toolkit 
+- :meat_on_bone: Meat lover
+
 [![Run Yan's github stats](https://github-readme-stats.vercel.app/api?username=runyan)](https://github.com/anuraghazra/github-readme-stats)
 
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=runyan&layout=compact)](https://github.com/runyan)
 
